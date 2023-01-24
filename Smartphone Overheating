@@ -1,0 +1,37 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Over Heating</title>
+  <style type="text/css">
+    #mainphoto{
+      width:100%;
+    }
+    #title1{
+      font-weight:40;
+      color:blue;
+    }
+  </style>
+</head>
+<body>
+  <embed id="mainphoto" src="https://raw.githubusercontent.com/oxifo/data/main/smartphonehot.jpg"/>
+  <h3 id="title1">ဖုန်းအပူဘာကြောင့်လွန်ကဲနေရတာလဲ</h3>
+  <p id="ans1">
+    ဖုန်းအပူလွန်ရတဲ့အချက်တွေအများကြီးရှိပါတယ်
+<ol>
+ <li>ဖုန်းအားသွင်းချိန်ကြာမြင့်နေရတာ</li>
+ <li>ဖုန်းကိုအားသွင်းနေစဉ်အသုံးပြုနေတာ</li>
+<li>app အများအပြားကိုတပြိုင်တည်းအသုံးပြုနေတာ</li>
+<li>screen brightness အလွန်မြင့်မားနေတာ</li>
+<li>graphic အလွန်မြင့်မားတဲ့mobile game တွေကို အချိန်အကြာကြီးဆော့နေတာ</li>
+<li>ဖုန်းအတွင်းမလိုအပ်ပဲ ထည့်သွင်းထားတဲ့ appတွေfileတွေအရမ်းများနေတာ</li>
+<li>android system ကိုပြဿနာဖြစ်အောင်ရည်ရွယ်ဖန်တီးထားတဲ့ app တွေကိုထည့်သွင်းထားမိတာ</li>
+<li>ဖုန်းထဲမှာ အသုံးပြုနေတဲ့ App တွေ system appတွေက updateဖြစ်မနေတာ</li>
+<li>အလွန်ပူပြင်းတဲ့နေရောင်ခြည်နဲ့တိုက်ရိုက်ထိတွေ့တာ</li>
+<li>phone cover တပ်ဆင်အသုံးပြုတာ</li>
+</ol>
+စတာတွေက ကျွန်တော်တို့ရဲ့ဖုန်းတွေကိုပူလာအောင်လှုံဆော်ပေးနေတာပဲဖြစ်ပါတယ်။
+  </p>
+</body>
+</html>
