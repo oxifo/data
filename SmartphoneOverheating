@@ -12,6 +12,11 @@
       font-weight:40;
       color:blue;
     }
+    p{
+      font-size:20px;
+    }ol{
+      display:block;
+      padding:25px;}
   </style>
 </head>
 <body>
