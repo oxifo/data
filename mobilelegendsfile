@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mobiles Legends File System</title>
+  <style type="text/css">
+   *{
+     margin:0;
+     padding:0;
+   }
+    #splash{
+      max-width:100%;
+      display:block;
+      margin:0px auto;
+      height:330px;
+      padding:0;
+    }
+    hr{
+      margin:25px 0px;
+      margin-bottom:10px;
+    }
+    h2{
+      font-family:Times New Roman;
+      color:blue;
+      font-weight:220;
+      padding-left:10px;
+      display:block;
+    }
+    #description{
+      display:block;
+      padding-left:10px;
+      text-indent:25px;
+      color:#4D7381;
+      padding-bottom:25px;
+    }
+  </style>
+</head>
+<body>
+ <video id="splash" src="https://raw.githubusercontent.com/oxifo/data/main/mobilelegendsfile.mp4"controls width="650px"poster="img/icon.png"></video>
+ <hr/>
+ <h2>Mobiles Files</h2>
+ <p id="description">ဒီ Video လေးထဲမှာပြထားတဲ့အတိုင်းတဆင့်ခြင်စီလိုက်လုပ်ကြည့်မယ်ဆိုရင် mobile legends ရဲ့ data folder ကိုတွေ့မှာဖြစ်ပါတယ်။ကျွန်တော်ရဲ့နည်းလမ်းလေးကတော့ download ပြည့်သွားတဲ့ သူငယ်ချင်းရှီက mobile legends file တွေကို zypya သုံးကူးပြီး မိတ်ဆွေတို့ ပြန်သုံးလို့ရအောင် လုပ်ပြထားတာပါ။<br />
+ video ထဲမှာပြထားတဲ့ assets ဆိုတဲ့ folder ရဲ့ file size က 6GB ပါ။အပြည့်ရှိတဲ့FILE ဆိုရင်ပြောတာပါ။မိတိဆွေရဲ့ com.mobile.legends ဆိုတဲ့file ထဲက assets file ကိုဖျတ်ပြီး download ပြည့်သွားတဲ့ မိတ်ဆွေသူငယ်ချင်း ရှီက assets file ကို replace ပြန်လုပ်လိုက်မယ်ဆိုရင် မိတ်ဆွေဟာ download ထပ်လုပ်ကမယ်ဆိုရင်တောင်အလွန်ဆုံး 100MB ပဲကုန်တော့မှာပါ။အခုလိုနည်းပညာအကြောင်းလေးတွကိုသိချင်ရင်တော့ ကျွန်တော်တို့ရဲ့ lulay app ကို download ယူထားလိုက်တော့နော်။Lulay စာမျက်နှာလေးကနေ လူကြိုက်များတဲ့ app game နဲ့ ebook လေးတွေကိုdownload ယူလို့ရနေပြီနော်။</p>
+</body>
+</html>
