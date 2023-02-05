@@ -33,7 +33,7 @@
   </style>
 </head>
 <body>
-  <embed src="imageRc1.jpeg" id="cover"/>
+  <embed src="https://raw.githubusercontent.com/oxifo/data/main/imageRc1.jpeg" id="cover"/>
   <hr/>
   <h id="title">Screen Time အလွန်မြင့်မားနေရင် သင့်မျက်လုံးလေးထိခိုက်နေရပြီပေါ့</h>
   <p id="main">
